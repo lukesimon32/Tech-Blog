@@ -351,6 +351,7 @@ END NORMALIZE CSS
 html,
 body {
   min-height: 100%;
+  background-color: rgb(139, 139, 0);
 }
 
 body {
@@ -399,6 +400,7 @@ p {
   font-size: 1.1rem;
   margin: 0 0 1rem;
   line-height: 1.5;
+  color: white;
 }
 
 ul,
@@ -420,8 +422,8 @@ button {
 }
 
 a {
-  color: #1b89bc;
-  text-decoration: none;
+  color: red;
+  text-decoration: burlywood;
 }
 
 a:hover {
